@@ -1,0 +1,10 @@
+2023-04-03 02:09:49.911277 - Initialized conversion of CBT715
+2023-04-03 02:09:49.967319 - Received CBT.V504.FILE715.PDS from FILE715.XMI 
+2023-04-03 02:09:49.969918 - Found $$$#DATE.txt (text/plain) in CBT.V504.FILE715.PDS, moved to PDS/$$$#DATE
+2023-04-03 02:09:49.971052 - Found $DSEDOC.txt (text/plain) in CBT.V504.FILE715.PDS, moved to PDS/$DSEDOC
+2023-04-03 02:09:49.972056 - Found @FILE715.txt (text/plain) in CBT.V504.FILE715.PDS, moved to PDS/@FILE715
+2023-04-03 02:09:49.973122 - Found DSE.txt (text/plain) in CBT.V504.FILE715.PDS, moved to PDS/DSE
+2023-04-03 02:09:49.974179 - Found DSE$.jcl (text/plain) in CBT.V504.FILE715.PDS, moved to PDS/DSE$
+2023-04-03 02:09:49.975208 - Found DSE@.jcl (text/plain) in CBT.V504.FILE715.PDS, moved to PDS/DSE@
+2023-04-03 02:09:49.976178 - Found DSEALT.txt (text/plain) in CBT.V504.FILE715.PDS, moved to PDS/DSEALT
+2023-04-03 02:09:49.977192 - Found DSEORIG.txt (text/plain) in CBT.V504.FILE715.PDS, moved to PDS/DSEORIG
