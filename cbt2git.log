@@ -1,9 +1,9 @@
-2025-04-13 22:03:49.957012 - Received CBT.V508.FILE715.PDS from FILE715.XMI 
-2025-04-13 22:03:49.957802 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE715.PDS, moved to PDS/$$$#DATE
-2025-04-13 22:03:49.957896 - Found $DSEDOC.txt (text/plain) in CBT.V508.FILE715.PDS, moved to PDS/$DSEDOC
-2025-04-13 22:03:49.957974 - Found @FILE715.txt (text/plain) in CBT.V508.FILE715.PDS, moved to PDS/@FILE715
-2025-04-13 22:03:49.958039 - Found DSE.txt (text/plain) in CBT.V508.FILE715.PDS, moved to PDS/DSE
-2025-04-13 22:03:49.958098 - Found DSE$.jcl (text/plain) in CBT.V508.FILE715.PDS, moved to PDS/DSE$
-2025-04-13 22:03:49.958187 - Found DSE@.jcl (text/plain) in CBT.V508.FILE715.PDS, moved to PDS/DSE@
-2025-04-13 22:03:49.958251 - Found DSEALT.txt (text/plain) in CBT.V508.FILE715.PDS, moved to PDS/DSEALT
-2025-04-13 22:03:49.958322 - Found DSEORIG.txt (text/plain) in CBT.V508.FILE715.PDS, moved to PDS/DSEORIG
+2025-04-15 04:57:31.200702 - Received CBT.V508.FILE715.PDS from FILE715.XMI 
+2025-04-15 04:57:31.201797 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE715.PDS, moved to PDS/$$$#DATE
+2025-04-15 04:57:31.202233 - Found $DSEDOC.txt (text/plain) in CBT.V508.FILE715.PDS, moved to PDS/$DSEDOC
+2025-04-15 04:57:31.202539 - Found @FILE715.txt (text/plain) in CBT.V508.FILE715.PDS, moved to PDS/@FILE715
+2025-04-15 04:57:31.202759 - Found DSE.txt (text/plain) in CBT.V508.FILE715.PDS, moved to PDS/DSE
+2025-04-15 04:57:31.203027 - Found DSE$.jcl (text/plain) in CBT.V508.FILE715.PDS, moved to PDS/DSE$
+2025-04-15 04:57:31.203237 - Found DSE@.jcl (text/plain) in CBT.V508.FILE715.PDS, moved to PDS/DSE@
+2025-04-15 04:57:31.203450 - Found DSEALT.txt (text/plain) in CBT.V508.FILE715.PDS, moved to PDS/DSEALT
+2025-04-15 04:57:31.203730 - Found DSEORIG.txt (text/plain) in CBT.V508.FILE715.PDS, moved to PDS/DSEORIG
